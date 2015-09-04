@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XMounter
+Name[zh_TW]=極限掛載器
+Comment=A tool for mounting remote/local file systems
+Comment[zh_TW]=遠端或本地檔案系統的掛載工具
+Exec=xmounter
+Terminal=false
+Type=Application
+Categories=Application;Network;
+Icon=xmounter

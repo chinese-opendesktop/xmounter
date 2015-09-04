@@ -1,0 +1,193 @@
+# Traditional Chinese Messages for xmounter.
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the xmounter package.
+# Wei-Lun Chao <william.chao@ossii.com.tw>, 2009.
+# Wei-Lun Chao <bluebat@member.fsf.org>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xmounter 0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-01 09:46+0800\n"
+"PO-Revision-Date: 2015-09-04 10:01+0800\n"
+"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: xmounter:18
+#, sh-format
+msgid "X Mounter "
+msgstr "極限掛載程式 "
+
+#: xmounter:18
+#, sh-format
+msgid "\\nGPL\\n\\nPlease select an action..."
+msgstr "\\nGPL\\n\\n請選取一項動作…"
+
+#: xmounter:19
+#, sh-format
+msgid "Add a new connection"
+msgstr "加入新的連接"
+
+#: xmounter:20
+#, sh-format
+msgid "Mount a connection"
+msgstr "掛載連接"
+
+#: xmounter:21
+#, sh-format
+msgid "Edit a connection"
+msgstr "編輯連接"
+
+#: xmounter:22
+#, sh-format
+msgid "Unmount a connection"
+msgstr "卸載連接"
+
+#: xmounter:23
+#, sh-format
+msgid "Delete a connection"
+msgstr "刪除連接"
+
+#: xmounter:24
+#, sh-format
+msgid "Local devices"
+msgstr "本地裝置"
+
+#: xmounter:25
+#, sh-format
+msgid "Remote sites"
+msgstr "遠端位置"
+
+#: xmounter:26
+#, sh-format
+msgid "Input"
+msgstr "輸入"
+
+#: xmounter:27
+#, sh-format
+msgid "Information"
+msgstr "資訊"
+
+#: xmounter:28
+#, sh-format
+msgid "Please enter data for the connection..."
+msgstr "請輸入用於連接的資料…"
+
+#: xmounter:29
+#, sh-format
+msgid "Name:"
+msgstr "名稱："
+
+#: xmounter:30
+#, sh-format
+msgid "Comment:"
+msgstr "說明："
+
+#: xmounter:31
+#, sh-format
+msgid "Type(smbfs,cifs,nfs,sshfs,ftpfs):"
+msgstr "類型(smbfs,cifs,nfs,sshfs,ftpfs)："
+
+#: xmounter:32
+#, sh-format
+msgid "Location(hostname/path):"
+msgstr "位置(hostname/path)："
+
+#: xmounter:33
+#, sh-format
+msgid "Username:"
+msgstr "帳號："
+
+#: xmounter:34
+#, sh-format
+msgid "Password:"
+msgstr "密碼："
+
+#: xmounter:35
+#, sh-format
+msgid "Connection mode:"
+msgstr "連接模式："
+
+#: xmounter:36
+#, sh-format
+msgid "Type(auto,ext3,vfat,ntfs,...):"
+msgstr "型態(auto,ext3,vfat,ntfs,...):"
+
+#: xmounter:37
+#, sh-format
+msgid "Device(hda1,sda1,sdb1,...):"
+msgstr "裝置(hda1,sda1,sdb1,...):"
+
+#: xmounter:50
+#, sh-format
+msgid "Available Devices"
+msgstr "可用裝置"
+
+#: xmounter:53
+#, sh-format
+msgid "Do you want to overwrite"
+msgstr "您要覆寫"
+
+#: xmounter:74
+#, sh-format
+msgid "mount."
+msgstr "掛載。"
+
+#: xmounter:75
+#, sh-format
+msgid "edit."
+msgstr "編輯。"
+
+#: xmounter:76
+#, sh-format
+msgid "unmount."
+msgstr "卸載。"
+
+#: xmounter:77
+#, sh-format
+msgid "delete."
+msgstr "刪除。"
+
+#: xmounter:79
+#, sh-format
+msgid "Please select a connection to "
+msgstr "請選取一個連接來"
+
+#: xmounter:88
+#, sh-format
+msgid "The mount point exists!"
+msgstr "掛載點已存在！"
+
+#: xmounter:147
+#, sh-format
+msgid "The connection is mounted."
+msgstr "連接已掛載。"
+
+#: xmounter:150
+#, sh-format
+msgid "Error mounting the connection!"
+msgstr "掛載連接時發生錯誤！"
+
+#: xmounter:174
+#, sh-format
+msgid "The connection is unmounted."
+msgstr "連接已卸載。"
+
+#: xmounter:176
+#, sh-format
+msgid "Error unmounting the connection!"
+msgstr "卸載連接時發生錯誤！"
+
+#: xmounter:179
+#, sh-format
+msgid "No point to unmount!"
+msgstr "無掛載點可供卸載！"
+
+#: xmounter:183
+#, sh-format
+msgid "Do you want to delete"
+msgstr "您要刪除"

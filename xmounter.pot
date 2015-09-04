@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-10 12:24+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: xmounter:18
+#, sh-format
+msgid "X Mounter "
+msgstr ""
+
+#: xmounter:18
+#, sh-format
+msgid "\\nGPL\\n\\nPlease select an action..."
+msgstr ""
+
+#: xmounter:19
+#, sh-format
+msgid "Add a new connection"
+msgstr ""
+
+#: xmounter:20
+#, sh-format
+msgid "Mount a connection"
+msgstr ""
+
+#: xmounter:21
+#, sh-format
+msgid "Edit a connection"
+msgstr ""
+
+#: xmounter:22
+#, sh-format
+msgid "Unmount a connection"
+msgstr ""
+
+#: xmounter:23
+#, sh-format
+msgid "Delete a connection"
+msgstr ""
+
+#: xmounter:24
+#, sh-format
+msgid "Local devices"
+msgstr ""
+
+#: xmounter:25
+#, sh-format
+msgid "Remote sites"
+msgstr ""
+
+#: xmounter:26
+#, sh-format
+msgid "Input"
+msgstr ""
+
+#: xmounter:27
+#, sh-format
+msgid "Information"
+msgstr ""
+
+#: xmounter:28
+#, sh-format
+msgid "Please enter data for the connection..."
+msgstr ""
+
+#: xmounter:29
+#, sh-format
+msgid "Name:"
+msgstr ""
+
+#: xmounter:30
+#, sh-format
+msgid "Comment:"
+msgstr ""
+
+#: xmounter:31
+#, sh-format
+msgid "Type(smbfs,cifs,nfs,sshfs,ftpfs):"
+msgstr ""
+
+#: xmounter:32
+#, sh-format
+msgid "Location(hostname/path):"
+msgstr ""
+
+#: xmounter:33
+#, sh-format
+msgid "Username:"
+msgstr ""
+
+#: xmounter:34
+#, sh-format
+msgid "Password:"
+msgstr ""
+
+#: xmounter:35
+#, sh-format
+msgid "Connection mode:"
+msgstr ""
+
+#: xmounter:36
+#, sh-format
+msgid "Type(auto,ext3,vfat,ntfs,...):"
+msgstr ""
+
+#: xmounter:37
+#, sh-format
+msgid "Device(hda1,sda1,sdb1,...):"
+msgstr ""
+
+#: xmounter:55
+#, sh-format
+msgid "Available Devices"
+msgstr ""
+
+#: xmounter:58
+#, sh-format
+msgid "Do you want to overwrite"
+msgstr ""
+
+#: xmounter:80
+#, sh-format
+msgid "mount."
+msgstr ""
+
+#: xmounter:81
+#, sh-format
+msgid "edit."
+msgstr ""
+
+#: xmounter:82
+#, sh-format
+msgid "unmount."
+msgstr ""
+
+#: xmounter:83
+#, sh-format
+msgid "delete."
+msgstr ""
+
+#: xmounter:85
+#, sh-format
+msgid "Please select a connection to "
+msgstr ""
+
+#: xmounter:96
+#, sh-format
+msgid "The mount point exists!"
+msgstr ""
+
+#: xmounter:157
+#, sh-format
+msgid "The connection is mounted."
+msgstr ""
+
+#: xmounter:160
+#, sh-format
+msgid "Error mounting the connection!"
+msgstr ""
+
+#: xmounter:184
+#, sh-format
+msgid "The connection is unmounted."
+msgstr ""
+
+#: xmounter:186
+#, sh-format
+msgid "Error unmounting the connection!"
+msgstr ""
+
+#: xmounter:189
+#, sh-format
+msgid "No point to unmount!"
+msgstr ""
+
+#: xmounter:193
+#, sh-format
+msgid "Do you want to delete"
+msgstr ""
