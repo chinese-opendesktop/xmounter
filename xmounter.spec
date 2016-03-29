@@ -1,6 +1,6 @@
 Name:		xmounter
 Version:	@VERSION@
-Release:	2%{?dist}
+Release:	2
 Summary:	A tool for mounting remote/local file systems.
 Summary(zh_TW):	遠端/本地檔案系統的掛載工具
 License:	GPL
