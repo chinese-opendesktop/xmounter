@@ -17,5 +17,5 @@ GPL (c) opendesktop.org.tw, 2009.
 
 Authors
 -------
-Wei-Lun Chao <william.chao@ossii.com.tw>, 2009
-Wei-Lun Chao <bluebat@member.fsf.org>, 2015
+* Wei-Lun Chao <william.chao@ossii.com.tw>, 2009
+* Wei-Lun Chao <bluebat@member.fsf.org>, 2015

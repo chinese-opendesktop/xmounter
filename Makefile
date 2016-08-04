@@ -1,7 +1,7 @@
-VERSION=0.3
-DESTDIR=
-PREFIX=/usr
-PACKAGE=xmounter
+VERSION = 0.3
+DESTDIR =
+PREFIX = /usr
+PACKAGE = xmounter
 
 all:
 	xgettext -L Shell -o $(PACKAGE).pot $(PACKAGE).sh
